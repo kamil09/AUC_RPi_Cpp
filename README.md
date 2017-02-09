@@ -1,6 +1,11 @@
 # AUC_RPi_Cpp
 Układ automatycznego wykrywania obiektu i celowania. Wykrywanie następuje na podstawie koloru po uprzedniej kalibracji. 
 
+<video width="320" height="240" controls>
+  <source src="auc.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Wykonali:
 
 
