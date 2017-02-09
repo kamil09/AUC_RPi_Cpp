@@ -1,39 +1,23 @@
 # AUC_RPi_Cpp
-Układ automatycznego wykrywania obiektu i celowania. Wykrywanie następuje na podstawie koloru po uprzedniej kalibracji. 
+Automatic targeting system based on color recognition. Watch movie to see more :) 
 
-<video width="320" height="240" controls>
-  <source src="auc.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Authors:
 
-Wykonali:
-
-
-Kamil: hardware, sterowanie silnikami
-
-Michał: sterowanie silnikami, analiza obrazu
-
-Szymon: analiza obrazu
+Kamil: hardware, motors control
+Michał: motors control, image recognition
+Szymon: image recognition
 
 
+We used OpenCV library.
 
-Do analizy obrazu wykorzystano bibliotekę OpenCV
+Hardware:
 
-Elementy:
-
-2x silnik krokowy
-
+2x stepper mottor
 2x driver drv8825
-
-1x obudowa z płyty HDF
-
-1x RPi (najsłabsza wersja ;( ) z kartą SD i systemem
-
-1x kamera.
-
-1x dioda laserowa
-
-nx części wydrukowanych na drukarce 3D Kamila
-
-nx drobnych elementów elektronicznych
+1x HDF plate
+1x RPi and SD card
+1x camera
+1x laser diode
+nx 3d printed elements
+nx small electric components
 
